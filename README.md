@@ -1,3 +1,7 @@
+> This is my fork of [wafflestudio/seminar-2025](https://github.com/wafflestudio/seminar-2025). I forked it
+> to fill in my seminar preferences in `list.md` and send them as a pull request. Everything below is the
+> original README from Waffle Studio, unchanged.
+
 # 와플스튜디오 2025 세미나
 
 > 와플스튜디오 세미나는 Rookies 부원들을 위한 기초 교육과 기존 부원들에게는 개발 지식을 더욱 확장할 기회를 제공하는 것을 목표로 합니다. 개발 이론과 실습 코딩, 그리고 협업 방식까지 모두 아우르는 커리큘럼이 준비되어 있습니다. 
